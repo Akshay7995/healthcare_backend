@@ -1,4 +1,4 @@
-Tech Stack
+# Tech Stack
 Backend: Django, Django REST Framework
 
 Database: PostgreSQL
